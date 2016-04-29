@@ -1,2 +1,3 @@
 # cordova-background-email-sender
-Sends email in background can also open email composer
+ - Sends email in background 
+ - Can also open email composer
